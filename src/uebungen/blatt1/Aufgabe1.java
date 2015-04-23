@@ -9,3 +9,4 @@ public class Aufgabe1 {
         System.out.println("Test");
     }
 }
+
