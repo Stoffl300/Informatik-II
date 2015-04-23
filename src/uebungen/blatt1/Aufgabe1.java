@@ -1,12 +1,14 @@
 package uebungen.blatt1;
 
 /**
- * Created by christoph on 13.04.15.
+ * Blatt 1 Aufgabe 1
  *
+ * @author Gruppe 2 Team 3 (Christoph Bruckner, Markus Baumgartner, Christoph Maurer)
+ * @version 1.0
  */
 public class Aufgabe1 {
     public static void main(String[] args) {
-        System.out.println("Test");
+
     }
 }
 
